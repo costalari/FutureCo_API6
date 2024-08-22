@@ -1,4 +1,4 @@
-# FutureCo - 6ºSemestre
+# :star2: FutureCo - 6ºSemestre
 API - Aprendizado por Projeto Integrado
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
