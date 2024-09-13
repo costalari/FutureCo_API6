@@ -28,7 +28,7 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo uma análise de produtividade de veículos e de custo de rotas de uma empresa embarcadora de carga, visando as seguintes requisitos:
+Este projeto tem como objetivo uma análise de produtividade de veículos e de custo de rotas de uma empresa embarcadora de carga, visando os seguintes requisitos:
 * Criação e modelagem de um banco de dados em SQL;
 * Criação de um visualizador de indicadores em BI;
 * Uma estrutura de banco de dados relacional;
