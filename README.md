@@ -64,6 +64,7 @@ Adicionar video e documentos nessa seção
 - [ ] BI - Produtividade por KM;
 - [ ] Extração de dados do PowerBi;
 - [ ] Banco relacional;
+- [ ] Validação do backlog;
 - [ ] Criação do vídeo.
 
 ## Sprint 2
