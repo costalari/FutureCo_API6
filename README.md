@@ -1,4 +1,4 @@
-# :star2: FutureCo - 6ºSemestre
+# :globe_with_meridians: :computer: FutureCo - 6ºSemestre
 API - Aprendizado por Projeto Integrado
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -18,23 +18,23 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 29/08/2024 | em progresso|
-|01 | dd/mm/aaaa | a fazer|
-|02|  dd/mm/aaaa| a fazer |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|01 | 02/10/2024 | a fazer|
+|02|  30/10/2024| a fazer |
+|03| 27/11/2024 | a fazer|
+|Feira de Soluções|12/12/2024 |a fazer |
 
 
 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo uma análise de produtividade de veículos e de custo de rotas de uma empresa embarcadora de carga, visando as seguintes requisitos:
+* Criação e modelagem de um banco de dados em SQL;
+* Criação de um visualizador de indicadores em BI;
+* Uma estrutura de banco de dados relacional;
+* Uma tela de BI com a produtividade dos veículos;
+* Uma tela BI com evolução dos custos por km;
+* Uma tela BI com evolução dos custos por unidade transportada.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -43,59 +43,50 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
-* Microsoft Excel
+* Microsoft Office
+* MySQL
+* GitHub
 * Slack
 
 
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1
+- [ ] Backlog do Produto;
+- [ ] Criar repositório GitHub;
+- [ ] Organização do JIRA;
+- [ ] BI - Produtividade por KM;
+- [ ] Extração de dados do PowerBi;
+- [ ] Banco relacional;
+- [ ] Criação do vídeo.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2
+- [ ] BI - custo por KM;
+- [ ] BI - custo por unidade transportada;
+- [ ] Atualização do JIRA;
+- [ ] Atualização do GitHub.
+- [ ] Desenvolva o design;
+- [ ] Escolha cores e fontes do BI;
+- [ ] Criação do vídeo.
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+## Sprint 3
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+- [ ] Otimização de rotas;
+- [ ] Atualização do JIRA;
+- [ ] Atualização do GitHub;
+- [ ] Relatório Técnico;
+- [ ] Desenvolva o design.
+- [ ] Criação do vídeo.
 - [ ] Finalize e aprovação.
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+## Feira de Soluções
+- [ ] Apresentação do projeto na feira de soluções.
 
 
   
