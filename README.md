@@ -42,7 +42,7 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 Adicionar video e documentos nessa seção
-
+[![Desenvolvimentos da 1º Sprint]](https://youtu.be/a0g90R_tjG0)
 
 ## Tecnologias Utilizadas
 
