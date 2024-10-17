@@ -39,10 +39,8 @@ Este projeto tem como objetivo uma análise de produtividade de veículos e de c
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
-[![Desenvolvimentos da 1º Sprint]](https://youtu.be/a0g90R_tjG0)
+[Desenvolvimentos da 1º Sprint](https://youtu.be/a0g90R_tjG0)
 
 ## Tecnologias Utilizadas
 
