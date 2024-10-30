@@ -18,9 +18,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 29/08/2024 | concluído|
-|01 | 02/10/2024 | em progresso|
-|02|  30/10/2024| a fazer |
-|03| 27/11/2024 | a fazer|
+|01 | 02/10/2024 | concluído|
+|02|  30/10/2024| concluído |
+|03| 27/11/2024 | em progresso|
 |Feira de Soluções|12/12/2024 |a fazer |
 
 
@@ -42,6 +42,8 @@ Apresentação das funcionalidades
 
 [Desenvolvimentos da 1º Sprint](https://youtu.be/a0g90R_tjG0)
 
+[Desenvolvimentos da 2º Sprint](https://youtu.be/8QY1FL9ciqs)
+
 ## Tecnologias Utilizadas
 
 * Jira Software
@@ -56,27 +58,26 @@ Apresentação das funcionalidades
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Backlog do Produto;
-- [ ] Criar repositório GitHub;
-- [ ] Organização do JIRA;
-- [ ] BI - Produtividade por KM;
-- [ ] Extração de dados do PowerBi;
-- [ ] Banco relacional;
-- [ ] Validação do backlog;
-- [ ] Criação do vídeo.
+- [x] Backlog do Produto;
+- [x] Criar repositório GitHub;
+- [x] Organização do JIRA;
+- [x] BI - Produtividade por KM;
+- [x] Extração de dados do PowerBi;
+- [x] Banco relacional;
+- [x] Validação do backlog;
+- [x] Criação do vídeo.
 
 ## Sprint 2
-- [ ] BI - custo por KM;
-- [ ] BI - custo por unidade transportada;
-- [ ] Atualização do JIRA;
-- [ ] Atualização do GitHub.
-- [ ] Desenvolva o design;
-- [ ] Escolha cores e fontes do BI;
-- [ ] Criação do vídeo.
+- [x] BI - custo por KM;
+- [x] BI - custo por unidade transportada;
+- [x] Atualização do JIRA;
+- [x] Atualização do GitHub.
+- [x] Desenvolva o design;
+- [x] Escolha cores e fontes do BI;
+- [x] Criação do vídeo.
       
 ## Sprint 3
 - [ ] Teste e revise;
-- [ ] Otimização de rotas;
 - [ ] Atualização do JIRA;
 - [ ] Atualização do GitHub;
 - [ ] Relatório Técnico;
